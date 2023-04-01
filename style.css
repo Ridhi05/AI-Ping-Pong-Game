@@ -1,0 +1,17 @@
+h1{
+    font-size: 28px !important;
+    font-weight: bold !important;
+    color: darkblue !important;
+    width: 100%;
+}
+#instructions{
+    font-size: 23px !important;
+    color: darkblue !important;
+    float: right;
+}
+#start{
+    font-size: 23px !important;
+    font-style: oblique;
+    box-shadow: 6px 7px 5px grey;
+    
+}
